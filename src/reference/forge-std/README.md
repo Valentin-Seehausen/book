@@ -4,6 +4,12 @@ Forge Standard Library (Forge Std for short) is a collection of helpful contract
 
 Using Forge Std is the preferred way of writing tests with Foundry.
 
+Install it first:
+
+```sh
+$ forge install foundry-rs/forge-std
+```
+
 What's included:
 
 - `Vm.sol`: Up-to-date [cheatcodes interface](../../cheatcodes/#cheatcodes-interface)
