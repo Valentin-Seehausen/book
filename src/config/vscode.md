@@ -34,6 +34,7 @@ To enable the built-in formatter that comes with Foundry to automatically format
     "editor.defaultFormatter": "JuanBlanco.solidity" 
   },
   "solidity.formatter": "forge",
+  "solidity.monoRepoSupport": false,
 }
 ```
 
